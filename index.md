@@ -8,5 +8,9 @@ Helping make products that improve people's lives and their interactions with go
 
 Previously a Delivery Manager at DWP & Home Office, Policy Adviser at HM Treasury.
 
+> [LinkedIn](https://www.linkedin.com/in/mylesjarvis/)
+
+> Email: hello {at} mylesjarv.is
+
 
 
