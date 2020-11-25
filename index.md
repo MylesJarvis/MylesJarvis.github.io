@@ -12,7 +12,7 @@ Previously a Delivery Manager at DWP & Home Office, Policy Adviser at HM Treasur
 
 ***
 
-> Email: hello {at} mylesjarv.is
+> Email: hello {at} mylesjarv {dot} is
 
 ***
 
