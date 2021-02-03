@@ -1,5 +1,4 @@
-<script data-goatcounter="https://mylesjarvis.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+
         
 **Hello**
 
@@ -22,3 +21,6 @@ Previously a Delivery Manager at DWP & Home Office, Policy Adviser at HM Treasur
 
 ***
 <!-- ![DfE Digital](https://mylesjarvis.github.io/Logo.jpg) -->
+<!-- Goatcounter -->
+<script data-goatcounter="https://mylesjarvis.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
