@@ -1,3 +1,6 @@
+<script data-goatcounter="https://mylesjarvis.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+        
 **Hello**
 
 Welcome to my personal site. 
