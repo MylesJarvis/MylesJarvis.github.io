@@ -10,7 +10,7 @@ Previously a Delivery Manager at DWP & Home Office, Policy Adviser at HM Treasur
 
 **Things I've Written**
 
-- [How I Co-Created the Delivery Managers Learning List](../_DM_Learning_List)
+- [How I Co-Created the Delivery Managers Learning List](../posts/Delivery_Manager_Learning_List)
 - [DeliverCon 2020: A journey of discovery in the Discovery Museum, Newcastle](https://digitalpeople.blog.gov.uk/2020/04/30/delivercon-2020-a-journey-of-discovery-in-the-discovery-museum-newcastle/)
 
 ***
