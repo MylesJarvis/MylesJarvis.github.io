@@ -49,3 +49,9 @@ A huge thank you to all those who organised this day, and I look forward to next
 ________
 
 Be sure to stay updated with the [delivery management community by joining the community](https://www.gov.uk/service-manual/communities/agile-delivery-community).
+
+------
+
+[Return Home](/index).
+
+------

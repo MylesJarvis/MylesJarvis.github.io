@@ -49,5 +49,7 @@ I hope that this resource is useful and I look forward to growing this together.
 You can get involved in the discussion on this, or any other Delivery Management issues, on the [cross-government Slack channel by joining with your government email address. ](https://ukgovernmentdigital.slack.com/signup)
 
 ------
-[Return Home](/index)
+
+[Return Home](/index).
+
 ------
