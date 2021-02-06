@@ -1,9 +1,7 @@
 # How I Co-Created the Delivery Managers Learning List
 ------
 Written by me and originally posted on the [GOV.UK Digital People Blog](https://digitalpeople.blog.gov.uk/2020/05/15/how-i-co-created-the-delivery-managers-learning-list/), 15 May 2020.
-
 ------
-
 ## **A resource for Delivery Managers to target their development**
 
 Having been a member of the cross-government Slack community since I joined the Civil Service Fast Stream in October 2018, I was always interested in the forum as a way to help share learning and for Digital, Data and Technology (DDaT) professionals to improve themselves. As part of the Fast Stream scheme, I rotate around departments every 6 months, doing a number of roles across government. Another key focus of the Fast Stream is development of key competencies of DDaT roles, as well as leadership.
