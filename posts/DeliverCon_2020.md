@@ -1,6 +1,7 @@
-# How I Co-Created the Delivery Managers Learning List
+# DeliverCon 2020: A journey of discovery in the Discovery Museum, Newcastle
 _______
 Written by me and originally posted on the [GOV.UK Digital People Blog](https://digitalpeople.blog.gov.uk/2020/04/30/delivercon-2020-a-journey-of-discovery-in-the-discovery-museum-newcastle/), 30 April 2020.
+
 _______
 
 ![alt text](/DeliverCon2020.jpg "An illustration of points discussed during the day's plenary sessions")
