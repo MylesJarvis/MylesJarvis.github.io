@@ -17,6 +17,7 @@ Previously a Delivery Manager at DWP & Home Office, Policy Adviser at HM Treasur
 
 **Things I've Written**
 
+- [Overcoming different ways of working to improve a public service](https://dfedigital.blog.gov.uk/2022/12/14/improve-public-service/)
 - [How I Co-Created the Delivery Managers Learning List](../posts/How_I_Co-created_Delivery_Manager_Learning_List)
 - [DeliverCon 2020: A journey of discovery in the Discovery Museum, Newcastle](../posts/DeliverCon_2020)
 
