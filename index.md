@@ -4,9 +4,9 @@
 
 Welcome to my personal site. 
 
-Helping make products that improve people's lives and their interactions with gov. Currently a Product Manager at [DfE](https://www.gov.uk/government/organisations/department-for-education) Digital. 
+Helping make products that improve people's lives and their interactions with gov. Currently a Lead Product Manager at [NHS England](https://www.england.nhs.uk/).
 
-Previously a Delivery Manager at DWP & Home Office, Policy Adviser at HM Treasury.
+Previously a Product Manager at [DfE](https://www.gov.uk/government/organisations/department-for-education) Digital. Also worked as a Delivery Manager at DWP & Home Office, Policy Adviser at HM Treasury.
 
 **Products I've worked on**
 
